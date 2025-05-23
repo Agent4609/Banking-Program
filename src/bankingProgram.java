@@ -107,6 +107,7 @@ public class bankingProgram {
             function = scanner.nextInt();
         }
         System.out.println("Thank you for using the Java Bank! :");
+        scanner.close();
 
 
 
